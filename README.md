@@ -41,7 +41,6 @@ I’m passionate about building robust machine learning models and end-to-end ap
 - **Exam_Checker** — Notebook utilities for checking/grading workflows.  
   [`/Exam_Checker`](https://github.com/sagnik1-patra/Exam_Checker)
 
-> 🔖 Tip: Pin your top 6 so they show at the top of your profile.
 
 ---
 
