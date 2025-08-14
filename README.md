@@ -140,9 +140,6 @@ If you’ve got an idea that needs a quick ML prototype, a data visualization, o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </p>
 
-> ⚡ Want more? Add badges like  
-> <code>![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)</code>,
-> <code>![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)</code>, etc.
 
 ---
 
