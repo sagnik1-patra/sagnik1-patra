@@ -151,7 +151,6 @@ If you’ve got an idea that needs a quick ML prototype, a data visualization, o
 - **YOLOSagnik** — YOLO object detection experiments.  
   <a href="https://github.com/sagnik1-patra/YOLOSagnik">Code</a>
 
-> Pin your top 6 repos so they appear on the profile.
 
 ---
 
