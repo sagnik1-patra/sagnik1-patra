@@ -142,6 +142,8 @@ If you’ve got an idea that needs a quick ML prototype, a data visualization, o
 
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=sagnik1-patra&title=Repositories&no-bg=true&no-frame=true&theme=flat)]
+(https://github.com/ryo-ma/github-profile-trophy)
 
 ## ✨ Featured Projects
 - **Supply Chain Disruption Analyzer & Map** — NLP trend analysis + interactive folium map.  
