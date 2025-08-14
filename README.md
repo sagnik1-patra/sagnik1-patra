@@ -1,10 +1,22 @@
-# Hi, I'm Sagnik Patra 👋
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi, I'm Sagnik Patra 👋</h1>
+<p align="center">
+  AI/ML Engineer · Full-stack Explorer · React enthusiast
+</p>
+<p align="center">
+  <a href="https://portfolio-ovp9.onrender.com/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/sagnik2212">LinkedIn</a> ·
+  <a href="https://orcid.org/0009-0001-6496-2159">ORCID</a>
+</p>
 
+---
+
+## About
 **AI/ML Engineer · Full-stack Explorer**  
 I’m passionate about building robust machine learning models and end-to-end apps that solve real-world problems.
 
-- 🔭 Current focus: NLP + classical CV projects, geospatial/folium visualizations, and LLM-backed tools.
-- 🤝 Open to collaborate on applied ML and useful dev tools.
+- 🔭 Current focus: NLP + classical CV projects, geospatial/folium visualizations, and LLM-backed tools.  
+- 🤝 Open to collaborate on applied ML and useful dev tools.  
 - 🧩 I enjoy turning messy datasets into clean, shippable features.
 
 ---
@@ -29,13 +41,12 @@ I’m passionate about building robust machine learning models and end-to-end ap
 - **Exam_Checker** — Notebook utilities for checking/grading workflows.  
   [`/Exam_Checker`](https://github.com/sagnik1-patra/Exam_Checker)
 
-> 🔖 Pin a few of these so they show up at the top of your profile.
+> 🔖 Tip: Pin your top 6 so they show at the top of your profile.
 
 ---
 
 ## 🛠️ Tech I Use
-
-**ML/Data:** Python, Jupyter, pandas, scikit-learn, (classic CV, NLP)  
+**ML/Data:** Python, Jupyter, pandas, scikit-learn (classic CV, NLP)  
 **Apps/Back-end:** Flask, FastAPI (learning), REST APIs  
 **Data/Maps:** CSV/JSON, folium, basic SQL  
 **Dev:** Git/GitHub, GitHub Actions (CI), Render for quick deploys
@@ -47,33 +58,6 @@ I’m passionate about building robust machine learning models and end-to-end ap
 - 🌐 Portfolio: **[portfolio-ovp9.onrender.com](https://portfolio-ovp9.onrender.com/)**
 - 💼 LinkedIn: **[/in/sagnik2212](https://www.linkedin.com/in/sagnik2212)**
 - 🔎 ORCID: **[0009-0001-6496-2159](https://orcid.org/0009-0001-6496-2159)**
-
----
-
-## 📬 Contact & Collaboration
-
-If you’ve got an idea that needs a quick ML prototype, a data visualization, or an API to glue it together—ping me! I love shipping small, useful projects fast.
-
-> If you found something helpful, a ⭐ on any repo really helps!
-
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi, I'm Sagnik Patra 👋</h1>
-<p align="center">
-  AI/ML Engineer · Full-stack Explorer · React enthusiast
-</p>
-
-<p align="center">
-  <a href="https://portfolio-ovp9.onrender.com/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/sagnik2212">LinkedIn</a> ·
-  <a href="https://orcid.org/0009-0001-6496-2159">ORCID</a>
-</p>
-
----
-
-## 🚀 What I build
-- Practical ML/NLP & classic CV projects
-- React front-ends with simple, clean UX
-- Small APIs (Flask/FastAPI) that glue ideas together
 
 ---
 
@@ -140,22 +124,21 @@ If you’ve got an idea that needs a quick ML prototype, a data visualization, o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </p>
 
-
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=sagnik1-patra&title=Repositories&no-bg=true&no-frame=true&theme=flat)]
-(https://github.com/ryo-ma/github-profile-trophy)
-
-## ✨ Featured Projects
-- **Supply Chain Disruption Analyzer & Map** — NLP trend analysis + interactive folium map.  
-  <a href="https://github.com/sagnik1-patra/Supply-Chain-Disruption-Prediction">Code</a>
-- **Private-Tutor-AI** — LLM/NLP tutoring API (Flask).  
-  <a href="https://github.com/sagnik1-patra/Private-Tutor-AI">Code</a>
-- **YOLOSagnik** — YOLO object detection experiments.  
-  <a href="https://github.com/sagnik1-patra/YOLOSagnik">Code</a>
-
-
 ---
 
-## 🤝 Let’s collaborate
+## 🏆 Trophy Wall
+[![trophy](https://github-profile-trophy.vercel.app/?username=sagnik1-patra&column=-1&row=10&margin-w=12&margin-h=12&no-bg=true&no-frame=true&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--
+Optional compact rows (uncomment if you prefer smaller sections):
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sagnik1-patra&title=Repositories,Stars,Followers&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sagnik1-patra&title=Commits,PullRequest,Issues,ContributedTo&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
+---
+
+## 📬 Contact & Collaboration
 If you’ve got an idea that needs a quick ML prototype, a React front-end, or an API to ship it—ping me.  
 If something here helped, a ⭐ would mean a lot!
